@@ -27,6 +27,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5 markup
 - CSS (Flexbox)
 
+### What I learned
+
+I learned to use the relative units of em/rem for padding/margin/widths for better scaling.
+
+### Continued development
+
+Read up some more about the usage of em/rem and how to set an easy to use em to pixel ratio.
+
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - I used the Mozilla Web Docs for information.
