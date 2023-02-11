@@ -1,7 +1,7 @@
 body{
     background-color: hsl(212, 45%, 89%);
 }
-.container{
+.main{
     width: auto;
     height: auto;
     display: flex;
@@ -34,12 +34,12 @@ h1{
     font-size: 0.85rem;
     margin: 20px 40px 0px 40px;
 }
-.attribution {
+.footer {
     font-family: 'Outfit', sans-serif;
     font-size: 11px;
     margin-top: 15px;
     text-align: center;
 }
-.attribution a {
+.footer a {
     color: hsl(228, 45%, 44%);
 }
